@@ -2,7 +2,7 @@
 
 # Modern DOM API.
 
-abcdefg
+abcdefgh
 
 Built on top of PHP's native [DOMDocument](http://php.net/manual/en/book.dom.php), this project provides access to modern DOM APIs, as you would expect working with client-side code in the browser.
 
